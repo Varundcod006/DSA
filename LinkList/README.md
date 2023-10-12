@@ -1,6 +1,7 @@
 # Link-List
 
-- 1 Pointer: is a variable that can be used to save a Address Of Somthing 
+- # 1 Pointer: 
+is a variable that can be used to save a Address Of Somthing 
 OR Pointer is a statement that is linked with ponter To a Finction
 -----
 OR: " - A Pinter is Defined as Derived Datatype That Can Store the Address Of Other Variables
@@ -22,4 +23,13 @@ MyPointer = &a // Init The Pointer
 
 - The Size Of The Pointer :  As The Pointer The Memory Addresses, There size is indipendent of the type of the data they are pointing them 
 - The Size Of Pointer Only Depends On System Architechture
+
+- # 2 Link-List Overview :
+ this is a Linear Data structure Wich is Store in contiguos memory
+ - structure of link 
+
+ struct Node{
+    int data;
+    struct node *next;
+ }
 
