@@ -1,4 +1,4 @@
-#Non_Linear Data Structure
+# Non_Linear Data Structure
 
 in Non Linear Data Structue the data in not stored in lineary but it orginied in hirarchy..
 Or 
@@ -12,7 +12,7 @@ Or
 - Graph
 is the most imp data Structue
 
-#Tree
+# Tree
 How to Structture And Traverse
 Create
 Delete
@@ -23,7 +23,7 @@ And Other Operation
 2 PreOrder
 3 Post Order
 
-#The_Graph
+# The_Graph
 - a Grap is a set of Node and Edges 
 - in a graph ther is no Spacial Node(Unique Node) as Root Node
 - v
