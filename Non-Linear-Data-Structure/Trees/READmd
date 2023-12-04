@@ -1,0 +1,29 @@
+#Non_Linear Data Structure
+
+in Non Linear Data Structue the data in not stored in lineary but it orginied in hirarchy..
+Or 
+- A Tree is Defined as a finite set of one or more nodes such that 
+-- Thare is a spacial node that is #Root_None (R)
+-- The Remaining Nodes are Devided into N > 0 dissjoint state T1, T2, TN..., Where each of this states are tree
+-- T1, T2, .. TN its call #SubTree OF the Root (R)
+-- 
+
+- Tree
+- Graph
+is the most imp data Structue
+
+#Tree
+How to Structture And Traverse
+Create
+Delete
+And Other Operation
+
+- The Travese
+1 InOrder
+2 PreOrder
+3 Post Order
+
+#The_Graph
+- a Grap is a set of Node and Edges 
+- in a graph ther is no Spacial Node(Unique Node) as Root Node
+- v
