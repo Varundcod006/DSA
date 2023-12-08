@@ -76,3 +76,17 @@ ther are 3 types of order
 - PreOrder
 - PostOrder
 
+- In Order Traversal Algorithms and steps
+
+1 Check if trees != empty
+    if(tr != null){
+        trv(lptr[t])
+    }else{
+        exit()
+    }
+2 Traverse left node
+3 Traverse root node
+4 Traverse eight node
+
+
+- The Binary Search Tree
