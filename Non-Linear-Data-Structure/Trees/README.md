@@ -90,3 +90,25 @@ ther are 3 types of order
 
 
 - The Binary Search Tree
+
+
+Algorithms for the binary search tree
+
+- Searching
+1 The key to be search is compared with root node
+if it is not in a root node we have 2 posibilitys
+    1 if the key to be search having value < root node then we search the key in left subtree
+    2 if the key to be search having value > root node then we search the key in right subtree
+
+    if(root == null){
+        tree not available
+        exit()
+    } else{
+        if(key == root -> data){
+            Key Found
+        } else if (key < root -> data){
+            binary search(root, lptr, key)
+        } else{
+            binary search(root, rptr, key)
+        }
+    }
